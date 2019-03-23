@@ -31,3 +31,20 @@
     transform: rotate(360deg);
   }
 }
+
+.contact-elements {
+  display: flex;
+  flex-direction: row;
+}
+
+.img {
+  width: 80px;
+  height: 70px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+p {
+  margin-right: 20px;
+  margin-left: 20px;
+}
